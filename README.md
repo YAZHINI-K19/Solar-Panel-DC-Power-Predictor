@@ -32,12 +32,13 @@ This project is a machine learning-powered application that predicts the DC powe
 
 1. Clone the repository
    git clone [https://github.com/YAZHINI-K19/solar-panel-predictor](https://github.com/YAZHINI-K19/solar-panel-predictor)
+   
    cd solar-panel-predictor
 
-2. Install dependencies
+3. Install dependencies
    pip install -r requirements.txt
 
-3. Launch the application
+4. Launch the application
    streamlit run app.py
 
 # Input Parameters
@@ -57,4 +58,5 @@ This project is a machine learning-powered application that predicts the DC powe
 
 Yazhini
 Project Title: Solar Panel DC Power Predictor
+
 GitHub: [https://github.com/YAZHINI-K19](https://github.com/YAZHINI-K19)
