@@ -57,6 +57,7 @@ This project is a machine learning-powered application that predicts the DC powe
 # Developed By
 
 Yazhini
+
 Project Title: Solar Panel DC Power Predictor
 
 GitHub: [https://github.com/YAZHINI-K19](https://github.com/YAZHINI-K19)
