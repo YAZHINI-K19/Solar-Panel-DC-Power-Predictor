@@ -1,4 +1,4 @@
-# Solar Panel DC Power Predictor
+# Solar Panel DC Power Prediction 
 
 This project is a machine learning-powered application that predicts the DC power output of a solar panel based on environmental inputs like irradiation, ambient temperature, module temperature, and hour of the day. It features a user-friendly interface developed with Streamlit.
 
@@ -58,6 +58,6 @@ This project is a machine learning-powered application that predicts the DC powe
 
 Yazhini
 
-Project Title: Solar Panel DC Power Predictor
+Project Title: Solar Panel DC Power Prediction
 
 GitHub: [https://github.com/YAZHINI-K19](https://github.com/YAZHINI-K19)
